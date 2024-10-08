@@ -1,1 +1,2 @@
 # Network-Desktop-Manager
+This project involves two computers: a server computer and a client computer. When the server computer is turned on, the objective of the project is to access the client computer from the server computer via screen recording. This allows you to see the screen of the client computer on the server computer and make necessary changes to the client computer through the server computer.
